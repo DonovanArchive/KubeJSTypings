@@ -6,6 +6,7 @@
 /// <reference path="./events/player.d.ts" />
 /// <reference path="./events/server.d.ts" />
 /// <reference path="./events/world.d.ts" />
+/// <reference path="./minecraft.d.ts" />
 
 declare namespace KubeJS {
 	interface Settings {
