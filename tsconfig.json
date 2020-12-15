@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "ESNext",
+        "baseUrl": "src",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "paths": {},
+		"inlineSourceMap": true,
+		"charset": "UTF-8",
+		"downlevelIteration": true,
+		"newLine": "lf" ,
+		"strict": true
+    },
+    "include": [
+		"**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "build",
+        "out",
+        "tmp",
+		"logs",
+		"test"
+    ]
+}
