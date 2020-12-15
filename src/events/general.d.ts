@@ -57,5 +57,5 @@ declare namespace KubeJS.GeneralEvents {
 		]): void;
 	}
 	interface FluidTagsEvent extends GenericEvent { }
-	interface entityTypeTagsEvent extends GenericEvent { }
+	interface EntityTypeTagsEvent extends GenericEvent { }
 }
