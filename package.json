@@ -1,0 +1,19 @@
+{
+  "name": "kubejs-typings",
+  "version": "1.0.0",
+  "description": "Typescript typings for https://github.com/KubeJS-Mods/KubeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonovanDMC/KubeJSTypings.git"
+  },
+  "author": "Donovan_DMC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DonovanDMC/KubeJSTypings/issues"
+  },
+  "homepage": "https://github.com/DonovanDMC/KubeJSTypings#readme"
+}
